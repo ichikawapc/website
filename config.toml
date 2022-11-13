@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/"
-title = "Puppet"
+title = "市川プログラミングサークル"
 
 theme = "puppet"
 themesDir = "themes"
