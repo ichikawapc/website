@@ -77,12 +77,12 @@ bio = "a personal website"
 
 [params.social]
 rss_enable = true
-twitter = "johndoe"
-facebook = "johndoe"
-zhihu = "johndoe"
-weibo = "johndoe"
-github = "johndoe"
-linkedin = "johndoe"
+twitter = "ringosusyacho"
+#facebook = "johndoe"
+#zhihu = "johndoe"
+#weibo = "johndoe"
+github = "ichikawa-programming-circle"
+#linkedin = "johndoe"
 
 [[params.friends]]
 name = "John Doe"
