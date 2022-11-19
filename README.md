@@ -1,6 +1,6 @@
 # ウェブサイトをSSG使って作りたい
 
-確認はこちら
+## 確認はこちら
 - https://ichikawa-programming-circle.github.io/website/
 
 ## 環境セットアップ (MacOS)
