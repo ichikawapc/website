@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/"
-title = "市川プログラミングサークル"
+# title = "市川プログラミングサークル"
 
 theme = "puppet"
 themesDir = "themes"
@@ -59,8 +59,8 @@ weight = 100
 
 
 [params]
-author = "Puppet"
-description = "A simple and clean theme for Hugo"
+author = "市川プログラミングサークル"
+description = "市川でプログラミングを学ぶサークルです"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
