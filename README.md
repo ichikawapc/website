@@ -1,3 +1,5 @@
+![Workflow](https://github.com/ichikawa-programming-circle/website/actions/workflows/hugo.yml/badge.svg)
+
 # ウェブサイトをSSG使って作りたい
 
 ## 確認はこちら
