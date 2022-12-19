@@ -1,25 +1,28 @@
 +++
-title = "私たちについて"
+title = "（準備中）私たちについて"
 description = "市川プログラミングサークルについて紹介します"
 date = "2022-12-17"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+プログラミングの学習や技術向上のために、有志で活動を開始しました。メンバーはシステムエンジニアとしての実務経験のある人から、全くの初心者まで、年代・性別も様々です。
 
-Hugo makes use of a variety of open source projects including:
+毎月第一、第三土曜日に、市川市内にて活動しています。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+参加資格は特にありません。市川市 在住・在学・在勤の方の参加を歓迎します。
+興味のある方は、気軽にコメント、またはメンバーのSNSにご連絡ください。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+活動内容は、[HOME](https://ichikawa-programming-circle.github.io/website/)にて更新していきます。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+##初めて参加する方へ
+市川プログラミングサークの雰囲気を確認するため、まずは参加してみませんか？
+活動内容は毎回異なりますが、まずはスマホがあればOKです。
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+サークルに参加いただける場合は、持参できるPCまたは、オンラインから参加できる環境を準備することを推奨します。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+##学習内容
+* Git
+* HTML:https://developer.mozilla.org/ja/docs/Learn/HTML
+ 
+
