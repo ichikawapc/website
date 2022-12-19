@@ -1,5 +1,5 @@
 +++
-title = "（準備中）私たちについて"
+title = "サークル概要"
 description = "市川プログラミングサークルについて紹介します"
 date = "2022-12-17"
 aliases = ["about-us", "about-hugo", "contact"]
