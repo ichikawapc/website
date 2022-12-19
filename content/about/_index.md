@@ -23,6 +23,6 @@ author = "Hugo Authors"
 
 #学習内容
 * Git
-* HTML : (https://developer.mozilla.org/ja/docs/Learn/HTML)
+* HTML : ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/HTML)
  
 
