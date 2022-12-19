@@ -16,14 +16,14 @@ author = "Hugo Authors"
 
 活動内容は、[HOME](https://ichikawa-programming-circle.github.io/website/)にて更新していきます。
 
-# 初めて参加する方へ
+## 初めて参加する方へ
 
 市川プログラミングサークの雰囲気を確認するため、まずは参加してみませんか？
 活動内容は毎回異なりますが、まずはスマホがあればOKです。
 
 サークルに参加いただける場合は、持参できるPCまたは、オンラインから参加できる環境を準備することを推奨します。
 
-# 学習内容
+## 学習内容
 
 * Git
 * HTML : ウェブ入門(https://developer.mozilla.org/ja/docs/Learn/HTML)
