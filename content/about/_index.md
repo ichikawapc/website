@@ -1,6 +1,6 @@
 +++
-title = "（準備中）私たちについて"
-description = "Hugo, the world's fastest framework for building websites"
+title = "私たちについて"
+description = "市川プログラミングサークルについて紹介します"
 date = "2022-12-17"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
