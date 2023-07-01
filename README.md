@@ -1,9 +1,9 @@
-![Workflow](https://github.com/ichikawa-programming-circle/website/actions/workflows/hugo.yml/badge.svg)
+![Workflow](https://github.com/ichikawapc/website/actions/workflows/hugo.yml/badge.svg)
 
 # ウェブサイトをSSG使って作りたい
 
 ## 確認はこちら
-- https://ichikawa-programming-circle.github.io/website/
+- https://ichikawapc.github.io/website/
 
 ## 環境セットアップ (MacOS)
 
